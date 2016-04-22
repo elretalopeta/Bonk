@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bonk</string>
+    <string name="action_new_game">New game</string>
+    <string name="score">Score: </string>
+    <string name="best_score">Best: </string>
+    <string name="remaining">Remaining: </string>
+    <string name="play_time">Time: </string>
+    <string name="you_win">You win!</string>
+    <string name="you_lose">Game over!</string>
+
+</resources>
